@@ -6,8 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eliasalbalaa&label=Profile%20views&color=0e75b6&style=flat" alt="eliasalbalaa" /> </p>
 
-- 🔭 I’m currently working as a web developer at [KLEVlb Lebanon](KLEVlb.com)
-
+- 🔭 I’m currently working as a web developer as a [freelancer](eliasalbalaa.com)
 - 🌱 I’m currently learning **Advanced Java**
 
 - 👯 I’m looking to collaborate on **Java Project**
